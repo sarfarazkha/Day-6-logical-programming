@@ -1,4 +1,4 @@
-package com.bridgelab.logical;
+package com.bridgelabx.logical;
 
 public class PrimeNum {
     public static void main(String args[]) {
