@@ -1,4 +1,4 @@
-package com.bridgelabz.logical;
+package com.bridgelab.logical;
 
 import java.util.Scanner;
 public class PerfectNum {
