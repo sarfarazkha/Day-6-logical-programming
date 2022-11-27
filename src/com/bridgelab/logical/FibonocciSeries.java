@@ -1,4 +1,4 @@
-package com.bridgelab.logical;
+package com.bridgelabz.logical;
 
 public class FibonocciSeries {
     public static void main(String args[])
