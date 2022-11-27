@@ -1,4 +1,4 @@
-package com.bridgelab.logical;
+package com.bridgelabz.logical;
 
 public class CouponNum {
     public static void main(String[] args)
